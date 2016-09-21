@@ -11,7 +11,7 @@ function modifyText () {
     } else if (clicks >= 20 && clicks < 25) {
         button.firstChild.nodeValue = "ALMOST!!";
     } else if (clicks >= 25 && clicks < 30) {
-        button.firstChild.nodeValue = "Uuugh!!";
+        button.firstChild.nodeValue = "Uuugh!";
     } else if (clicks >= 30) {
         button.firstChild.nodeValue = "I want a baby by you!";
     } else {
